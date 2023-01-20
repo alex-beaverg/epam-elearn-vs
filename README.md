@@ -1,4 +1,4 @@
-# Solution files and course tasks
+# Solution directories with course's tasks:
 ## 1. Autopark:
 - OOP
 - Clean code (.NET)
