@@ -3,6 +3,7 @@
 - OOP
 - Clean code (.NET)
 - .NET Collections
+- Exceptions
 ## 2. Coordinate:
 - Interfaces and Abstract Classes
 ## 3. differentSymbols:
