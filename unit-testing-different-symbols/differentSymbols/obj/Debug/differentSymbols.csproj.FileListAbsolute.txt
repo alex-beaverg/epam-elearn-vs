@@ -1,0 +1,8 @@
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\bin\Debug\differentSymbols.exe.config
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\bin\Debug\differentSymbols.exe
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\bin\Debug\differentSymbols.pdb
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\obj\Debug\differentSymbols.csproj.AssemblyReference.cache
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\obj\Debug\differentSymbols.csproj.SuggestedBindingRedirects.cache
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\obj\Debug\differentSymbols.csproj.CoreCompileInputs.cache
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\obj\Debug\differentSymbols.exe
+D:\Code\VS\unit-testing-different-symbols\differentSymbols\obj\Debug\differentSymbols.pdb
