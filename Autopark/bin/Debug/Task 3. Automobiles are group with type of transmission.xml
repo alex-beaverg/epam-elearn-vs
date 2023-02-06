@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<automobiles>
+  <automobile type="bike">
+    <engine>
+      <power>25</power>
+      <volume>1</volume>
+      <type_of_engine>V2</type_of_engine>
+      <vin>MC0099OOPLL11CC</vin>
+    </engine>
+    <chassis>
+      <quontity_of_wheels>2</quontity_of_wheels>
+      <serial>CHASS11100</serial>
+      <load>0.3</load>
+    </chassis>
+    <transmission>
+      <type_of_transmission>A4</type_of_transmission>
+      <quontity_of_gears>4</quontity_of_gears>
+      <producer>Kawasaki</producer>
+    </transmission>
+  </automobile>
+  <automobile type="car">
+    <engine>
+      <power>100</power>
+      <volume>2.5</volume>
+      <type_of_engine>V4</type_of_engine>
+      <vin>CF3421HGTTR45HH</vin>
+    </engine>
+    <chassis>
+      <quontity_of_wheels>4</quontity_of_wheels>
+      <serial>CHASS56722</serial>
+      <load>1.2</load>
+    </chassis>
+    <transmission>
+      <type_of_transmission>A5+1R</type_of_transmission>
+      <quontity_of_gears>5</quontity_of_gears>
+      <producer>Honda</producer>
+    </transmission>
+  </automobile>
+  <automobile type="bus">
+    <engine>
+      <power>323</power>
+      <volume>4.2</volume>
+      <type_of_engine>V8</type_of_engine>
+      <vin>JL8732YUREY33PP</vin>
+    </engine>
+    <chassis>
+      <quontity_of_wheels>6</quontity_of_wheels>
+      <serial>CHASS23142</serial>
+      <load>3</load>
+    </chassis>
+    <transmission>
+      <type_of_transmission>A7+1R</type_of_transmission>
+      <quontity_of_gears>7</quontity_of_gears>
+      <producer>MAN</producer>
+    </transmission>
+  </automobile>
+  <automobile type="trak">
+    <engine>
+      <power>407</power>
+      <volume>7.5</volume>
+      <type_of_engine>V12</type_of_engine>
+      <vin>WW3780HJJTR45II</vin>
+    </engine>
+    <chassis>
+      <quontity_of_wheels>8</quontity_of_wheels>
+      <serial>CHASS888</serial>
+      <load>5.3</load>
+    </chassis>
+    <transmission>
+      <type_of_transmission>M10+2R</type_of_transmission>
+      <quontity_of_gears>10</quontity_of_gears>
+      <producer>Isuzu</producer>
+    </transmission>
+  </automobile>
+  <automobile type="trak">
+    <engine>
+      <power>500</power>
+      <volume>9.2</volume>
+      <type_of_engine>V16</type_of_engine>
+      <vin>WW3780HJJTRPP00</vin>
+    </engine>
+    <chassis>
+      <quontity_of_wheels>10</quontity_of_wheels>
+      <serial>CHASS800</serial>
+      <load>8.3</load>
+    </chassis>
+    <transmission>
+      <type_of_transmission>M14+3R</type_of_transmission>
+      <quontity_of_gears>14</quontity_of_gears>
+      <producer>Mitsubishi</producer>
+    </transmission>
+  </automobile>
+</automobiles>

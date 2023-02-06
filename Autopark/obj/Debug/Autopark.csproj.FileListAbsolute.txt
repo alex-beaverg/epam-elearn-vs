@@ -1,0 +1,8 @@
+D:\Code\VS\Autopark\bin\Debug\Autopark.exe.config
+D:\Code\VS\Autopark\bin\Debug\Autopark.exe
+D:\Code\VS\Autopark\bin\Debug\Autopark.pdb
+D:\Code\VS\Autopark\obj\Debug\Autopark.csproj.AssemblyReference.cache
+D:\Code\VS\Autopark\obj\Debug\Autopark.csproj.SuggestedBindingRedirects.cache
+D:\Code\VS\Autopark\obj\Debug\Autopark.csproj.CoreCompileInputs.cache
+D:\Code\VS\Autopark\obj\Debug\Autopark.exe
+D:\Code\VS\Autopark\obj\Debug\Autopark.pdb

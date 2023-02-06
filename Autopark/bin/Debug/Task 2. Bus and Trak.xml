@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<automobiles>
+  <automobile type="trak">
+    <engine>
+      <type_of_engine>V12</type_of_engine>
+      <vin>WW3780HJJTR45II</vin>
+      <power>407</power>
+    </engine>
+  </automobile>
+  <automobile type="bus">
+    <engine>
+      <type_of_engine>V8</type_of_engine>
+      <vin>JL8732YUREY33PP</vin>
+      <power>323</power>
+    </engine>
+  </automobile>
+  <automobile type="trak">
+    <engine>
+      <type_of_engine>V16</type_of_engine>
+      <vin>WW3780HJJTRPP00</vin>
+      <power>500</power>
+    </engine>
+  </automobile>
+</automobiles>
