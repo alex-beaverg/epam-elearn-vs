@@ -1,4 +1,5 @@
 # Solution directories with course's tasks:
+# VS
 ## 1. Autopark:
 - OOP
 - Clean code (.NET)
@@ -15,5 +16,9 @@
 - Object Oriented Design Principles
 ## 6. unit-testing-selenium
 - Webserver
-## 7. WebDriver(ICanWin, BringItOn, HurtMePlenty, HardCore)
+
+# JAVA
+## 1. WebDriver(ICanWin, BringItOn, HurtMePlenty, HardCore)
 - Webdriver
+## 2. FrameWorkWebDriverTests
+- Framework
