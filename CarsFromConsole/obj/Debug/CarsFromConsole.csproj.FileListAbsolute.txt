@@ -1,0 +1,8 @@
+D:\Code\VS\CarsFromConsole\obj\Debug\CarsFromConsole.csproj.AssemblyReference.cache
+D:\Code\VS\CarsFromConsole\obj\Debug\CarsFromConsole.csproj.SuggestedBindingRedirects.cache
+D:\Code\VS\CarsFromConsole\obj\Debug\CarsFromConsole.csproj.CoreCompileInputs.cache
+D:\Code\VS\CarsFromConsole\bin\Debug\CarsFromConsole.exe.config
+D:\Code\VS\CarsFromConsole\bin\Debug\CarsFromConsole.exe
+D:\Code\VS\CarsFromConsole\bin\Debug\CarsFromConsole.pdb
+D:\Code\VS\CarsFromConsole\obj\Debug\CarsFromConsole.exe
+D:\Code\VS\CarsFromConsole\obj\Debug\CarsFromConsole.pdb
