@@ -1,0 +1,8 @@
+D:\Code\VS\Coordinate\bin\Debug\Coordinate.exe.config
+D:\Code\VS\Coordinate\bin\Debug\Coordinate.exe
+D:\Code\VS\Coordinate\bin\Debug\Coordinate.pdb
+D:\Code\VS\Coordinate\obj\Debug\Coordinate.csproj.AssemblyReference.cache
+D:\Code\VS\Coordinate\obj\Debug\Coordinate.csproj.SuggestedBindingRedirects.cache
+D:\Code\VS\Coordinate\obj\Debug\Coordinate.csproj.CoreCompileInputs.cache
+D:\Code\VS\Coordinate\obj\Debug\Coordinate.exe
+D:\Code\VS\Coordinate\obj\Debug\Coordinate.pdb
