@@ -1,0 +1,14 @@
+pagefactory\test\FWWDMainTest.class
+pagefactory\test\CommonConditions.class
+pagefactory\page\FWWDHomePage.class
+pagefactory\service\TestDataReader.class
+pagefactory\page\AbstractPage.class
+pagefactory\page\FWWDCalculatorPage.class
+pagefactory\driver\DriverSingleton.class
+pagefactory\model\Platform.class
+pagefactory\service\PlatformCreator.class
+waits\ExplicitCondition.class
+pagefactory\page\FWWDEmailPage.class
+pagefactory\utils\TestListener.class
+waits\WaitEmailCondition.class
+pagefactory\test\FWWDAdvancedTests.class

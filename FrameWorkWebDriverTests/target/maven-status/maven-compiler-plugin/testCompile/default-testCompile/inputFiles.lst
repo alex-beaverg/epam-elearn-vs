@@ -1,0 +1,14 @@
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\driver\DriverSingleton.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\page\AbstractPage.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\test\FWWDAdvancedTests.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\test\FWWDMainTest.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\page\FWWDCalculatorPage.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\service\TestDataReader.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\utils\TestListener.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\test\CommonConditions.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\service\PlatformCreator.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\page\FWWDEmailPage.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\waits\ExplicitCondition.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\waits\WaitEmailCondition.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\model\Platform.java
+D:\Code\JAVA\FrameWorkWebDriverTests\src\test\java\pagefactory\page\FWWDHomePage.java

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T01:46:30 MSK" name="All tests" finished-at="2023-02-07T01:47:28 MSK" duration-ms="58063">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T01:46:30 MSK" name="All tests" finished-at="2023-02-07T01:47:28 MSK" duration-ms="58063">
+      <class name="pagefactory.test.FWWDMainTest">
+        <test-method is-config="true" signature="browseSetUp()[pri:0, instance:pagefactory.test.FWWDMainTest@3bb9a3ff]" started-at="2023-02-07T01:46:59 MSK" name="browseSetUp" finished-at="2023-02-07T01:46:59 MSK" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseSetUp -->
+        <test-method signature="commonSearchCloudCalcAndCheckEstimate()[pri:0, instance:pagefactory.test.FWWDMainTest@3bb9a3ff]" started-at="2023-02-07T01:46:59 MSK" name="commonSearchCloudCalcAndCheckEstimate" description="Main test" finished-at="2023-02-07T01:47:27 MSK" duration-ms="28202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSearchCloudCalcAndCheckEstimate -->
+        <test-method is-config="true" signature="browserExit()[pri:0, instance:pagefactory.test.FWWDMainTest@3bb9a3ff]" started-at="2023-02-07T01:47:27 MSK" name="browserExit" finished-at="2023-02-07T01:47:28 MSK" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserExit -->
+      </class> <!-- pagefactory.test.FWWDMainTest -->
+      <class name="pagefactory.test.FWWDAdvancedTests">
+        <test-method is-config="true" signature="browseSetUp()[pri:0, instance:pagefactory.test.FWWDAdvancedTests@7c729a55]" started-at="2023-02-07T01:46:30 MSK" name="browseSetUp" finished-at="2023-02-07T01:46:31 MSK" duration-ms="1631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseSetUp -->
+        <test-method signature="commonSearchCloudCalc()[pri:0, instance:pagefactory.test.FWWDAdvancedTests@7c729a55]" started-at="2023-02-07T01:46:31 MSK" name="commonSearchCloudCalc" description="Advanced test 1" finished-at="2023-02-07T01:46:44 MSK" duration-ms="13144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSearchCloudCalc -->
+        <test-method is-config="true" signature="browserExit()[pri:0, instance:pagefactory.test.FWWDAdvancedTests@7c729a55]" started-at="2023-02-07T01:46:44 MSK" name="browserExit" finished-at="2023-02-07T01:46:45 MSK" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserExit -->
+        <test-method is-config="true" signature="browseSetUp()[pri:0, instance:pagefactory.test.FWWDAdvancedTests@7c729a55]" started-at="2023-02-07T01:46:45 MSK" name="browseSetUp" finished-at="2023-02-07T01:46:45 MSK" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseSetUp -->
+        <test-method signature="commonSearchCloudCalcWithAnotherRequest()[pri:0, instance:pagefactory.test.FWWDAdvancedTests@7c729a55]" started-at="2023-02-07T01:46:45 MSK" name="commonSearchCloudCalcWithAnotherRequest" description="Advanced test 2" finished-at="2023-02-07T01:46:58 MSK" duration-ms="13246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSearchCloudCalcWithAnotherRequest -->
+        <test-method is-config="true" signature="browserExit()[pri:0, instance:pagefactory.test.FWWDAdvancedTests@7c729a55]" started-at="2023-02-07T01:46:58 MSK" name="browserExit" finished-at="2023-02-07T01:46:59 MSK" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserExit -->
+      </class> <!-- pagefactory.test.FWWDAdvancedTests -->
+    </test> <!-- All tests -->
+  </suite> <!-- All tests -->
+</testng-results>
