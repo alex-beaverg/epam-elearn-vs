@@ -1,0 +1,8 @@
+D:\Code\VS\SystemToSystem\obj\Debug\SystemToSystem.csproj.AssemblyReference.cache
+D:\Code\VS\SystemToSystem\obj\Debug\SystemToSystem.csproj.SuggestedBindingRedirects.cache
+D:\Code\VS\SystemToSystem\obj\Debug\SystemToSystem.csproj.CoreCompileInputs.cache
+D:\Code\VS\SystemToSystem\bin\Debug\SystemToSystem.exe.config
+D:\Code\VS\SystemToSystem\bin\Debug\SystemToSystem.exe
+D:\Code\VS\SystemToSystem\bin\Debug\SystemToSystem.pdb
+D:\Code\VS\SystemToSystem\obj\Debug\SystemToSystem.exe
+D:\Code\VS\SystemToSystem\obj\Debug\SystemToSystem.pdb
