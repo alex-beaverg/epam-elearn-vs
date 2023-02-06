@@ -1,0 +1,13 @@
+D:\Code\VS\unit-testing-selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+D:\Code\VS\unit-testing-selenium\Selenium\obj\Debug\Selenium.csproj.SuggestedBindingRedirects.cache
+D:\Code\VS\unit-testing-selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\Selenium.exe.config
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\Selenium.exe
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\Selenium.pdb
+D:\Code\VS\unit-testing-selenium\Selenium\bin\Debug\WebDriver.dll
+D:\Code\VS\unit-testing-selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+D:\Code\VS\unit-testing-selenium\Selenium\obj\Debug\Selenium.exe
+D:\Code\VS\unit-testing-selenium\Selenium\obj\Debug\Selenium.pdb
